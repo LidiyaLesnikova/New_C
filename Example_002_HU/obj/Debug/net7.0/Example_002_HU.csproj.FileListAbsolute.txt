@@ -1,0 +1,15 @@
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\bin\Debug\net7.0\Example_002_HU.exe
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\bin\Debug\net7.0\Example_002_HU.deps.json
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\bin\Debug\net7.0\Example_002_HU.runtimeconfig.json
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\bin\Debug\net7.0\Example_002_HU.dll
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\bin\Debug\net7.0\Example_002_HU.pdb
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.csproj.AssemblyReference.cache
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.AssemblyInfo.cs
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.dll
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\refint\Example_002_HU.dll
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.pdb
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\Example_002_HU.genruntimeconfig.cache
+C:\Users\HOME\Documents\GIT\Examples\Example\New_C\Example_002_HU\obj\Debug\net7.0\ref\Example_002_HU.dll

@@ -25,9 +25,13 @@ Console.WriteLine(number8);
 int number9 = new Random().Next(1, 10);
 Console.WriteLine(number9);
 
-int max1 = Max(number1,number2,number3);
-int max2 = Max(number4,number5,number6);
-int max3 = Max(number7,number8,number9);
-int max = Max(max1,max2,max3);
+// int max1 = Max(number1,number2,number3);
+// int max2 = Max(number4,number5,number6);
+// int max3 = Max(number7,number8,number9);
+// int max = Max(max1,max2,max3);
+
+int max = Max(Max(number1,number2,number3),
+              Max(number4,number5,number6),
+              Max(number7,number8,number9));
 
 Console.WriteLine("max = " + max);

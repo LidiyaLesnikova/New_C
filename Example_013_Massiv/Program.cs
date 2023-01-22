@@ -8,6 +8,8 @@ else
     Console.WriteLine();
     SelectArray(array, vers);
     PrintArray(array);
+    Console.WriteLine();
+    Console.WriteLine(PrintData());
 }
 
 void PrintArray(int[] arr)
@@ -32,4 +34,9 @@ void SelectArray(int[] arr, int version)
         arr[i] = arr[minposition];
         arr[minposition] = temp;
     }
+}
+
+DateTime PrintData() 
+{
+    return DateTime.Now;
 }
